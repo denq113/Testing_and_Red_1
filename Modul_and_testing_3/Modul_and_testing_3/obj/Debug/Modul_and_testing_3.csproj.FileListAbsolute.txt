@@ -1,0 +1,10 @@
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\bin\Debug\Modul_and_testing_3.exe.config
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\bin\Debug\Modul_and_testing_3.exe
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\bin\Debug\Modul_and_testing_3.pdb
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\obj\Debug\Modul_and_testing_3.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\obj\Debug\Modul_and_testing_3.Form1.resources
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\obj\Debug\Modul_and_testing_3.Properties.Resources.resources
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\obj\Debug\Modul_and_testing_3.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\obj\Debug\Modul_and_testing_3.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\obj\Debug\Modul_and_testing_3.exe
+C:\Users\denjl\source\repos\Modul_and_testing_3\Modul_and_testing_3\obj\Debug\Modul_and_testing_3.pdb
