@@ -1,0 +1,10 @@
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\bin\Debug\Modul_and_tasting.exe.config
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\bin\Debug\Modul_and_tasting.exe
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\bin\Debug\Modul_and_tasting.pdb
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\obj\Debug\Modul_and_tasting.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\obj\Debug\Modul_and_tasting.Form1.resources
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\obj\Debug\Modul_and_tasting.Properties.Resources.resources
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\obj\Debug\Modul_and_tasting.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\obj\Debug\Modul_and_tasting.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\obj\Debug\Modul_and_tasting.exe
+C:\Users\denjl\source\repos\Modul_and_tasting\Modul_and_tasting\obj\Debug\Modul_and_tasting.pdb
